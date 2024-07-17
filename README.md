@@ -21,6 +21,11 @@ Install packages as a clean install. This is important to ensure that your versi
 npm ci
 ```
 
+In case this command doesn't work use
+```shell
+npm install
+```
+
 ### Step 3
 
 Configure your own ```.env``` file, as shown in the ```.env.example``` file.
